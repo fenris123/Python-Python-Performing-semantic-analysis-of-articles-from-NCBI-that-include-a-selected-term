@@ -44,11 +44,18 @@ The program aims to demonstrate the simplicity of conducting semantic analysis o
 LIBRARIES:
 here's a simplified list of the Python libraries used:
 
-os
+os.
+
 urllib.
+
 xml.etree.ElementTree.
+
 pandas.
+
 json.
+
 collections.Counter.
+
 string.
+
 nltk with nltk.corpus.stopwords: (To remove words with "no semantic sense" as articles, prepositions...)
