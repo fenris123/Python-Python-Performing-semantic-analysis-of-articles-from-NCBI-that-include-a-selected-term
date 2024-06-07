@@ -38,7 +38,7 @@ The results will be displayed in three files: an Excel file containing informati
 Caution:
 
 Users should interpret the results with caution, recognizing that the analysis is based on a limited sample size. 
-The program aims to demonstrate the simplicity of conducting semantic analysis on article abstracts, rather than providing exhaustive linguistic insights.
+The program aims to demonstrate that conducting some semantic analysis on article abstracts can be relatively simple and interesting, rather than providing exhaustive linguistic insights.
 
 
 LIBRARIES:
