@@ -2,21 +2,41 @@
 
 
 Program Description:
+
 This program conducts a simple semantic analysis by conducting a frequency analysis of word usage within article abstracts retrieved from the NCBI database. 
 Specifically designed to analyze articles containing a user-specified term, it provides insights into the language used within this subset of articles.
 
+
+
 Usage:
+
 The program is platform-independent and can be used with any operating system.
 
+
+
 Target Audience:
+
 Developed with simplicity in mind, the program is tailored for users with minimal computer literacy or programming experience. 
 It offers a straightforward approach to exploring the language patterns in articles related to a specific search term.
 
+
+
 Limitations:
+
 Due to technical constraints, the program restricts the number of articles retrieved to 200. 
 This limitation ensures compliance with the NCBI API usage policies while providing a manageable dataset for analysis.
 
+
+
+Results:
+
+The results will be displayed in three files: an Excel file containing information about the articles found (title, author, PubMed ID, etc.), another Excel file with the total frequency of each word, and a JSON file containing the text of the abstracts.
+
+
+
+
 Caution:
+
 Users should interpret the results with caution, recognizing that the analysis is based on a limited sample size. 
 The program aims to demonstrate the simplicity of conducting semantic analysis on article abstracts, rather than providing exhaustive linguistic insights.
 
